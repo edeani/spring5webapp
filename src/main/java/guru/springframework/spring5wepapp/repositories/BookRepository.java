@@ -1,4 +1,4 @@
-package guru.springframework.spring5webapp.repositories;
+package guru.springframework.spring5wepapp.repositories;
 
 import org.springframework.data.repository.CrudRepository;
 

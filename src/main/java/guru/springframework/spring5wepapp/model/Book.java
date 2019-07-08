@@ -29,6 +29,12 @@ public class Book {
 	
 	public Book() {}
 
+	public Book(String title, String isbn, String publisher) {
+		this.publisher = publisher;
+		this.title = title;
+		this.isbn = isbn;
+	}
+
 	public Long getId() {
 		return id;
 	}
